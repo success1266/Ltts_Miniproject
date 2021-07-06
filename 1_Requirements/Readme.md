@@ -1,4 +1,4 @@
-## SIMPLE QUIZ GAME
+# SIMPLE QUIZ GAME
 The Quiz Game designed is very interactive,user friendly and easy to play.
 
 # System Requirements
