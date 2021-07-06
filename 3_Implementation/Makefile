@@ -7,3 +7,4 @@ all: operations.c main.c -o all .exe
 
 run: all
      ./all.exe
+
