@@ -1,6 +1,7 @@
 /* This functions displays the menus for the quiz program.
    It is the first display menu after the execution */
 
+#include"functions.h"
 void displaymenu()
 {
      printf("\t\t\tC PROGRAM QUIZ GAME\n");

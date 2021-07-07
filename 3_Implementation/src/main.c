@@ -36,7 +36,7 @@ int main()
     }
     else if(option=="Q") /// If 'Q' is chooses then it will quit the program
     {
-        exit();  /// Terminates the programs 
+        exit(0);  /// Terminates the programs 
     }
     else
     {

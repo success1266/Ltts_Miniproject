@@ -1,4 +1,14 @@
 /* This file contains two function related to the starting the game. */
+/** 
+* @file functions.h
+* Quiz game
+*
+*/
+#ifndef __FUNCTIONS_H__
+#define __FUNCTIONS_H__
+
+#include <stdio.h>
+#include <stdlib.h>
 
 char ans[2];
 
@@ -122,3 +132,4 @@ void startgame()
     }
     
 }
+#endif  /* #define __FUNCTIONS_H__ */
