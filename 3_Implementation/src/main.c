@@ -53,7 +53,7 @@ int main()
     else if(choice=='S')
     {
      system("cls");
-
+	 
     printf("\n\n\n\n\n\n\n\n\n\n\t\t\tResister your name:");
      gets(playername);
 
@@ -550,5 +550,5 @@ void edit_score(float score, char plnm[20])
 	    fclose(f);
 		}
 		}
-		
+
 
