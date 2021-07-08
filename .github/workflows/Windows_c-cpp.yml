@@ -16,6 +16,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: build
-      run: gcc main.c -o main.exe
+      run: gcc 3_Implementation/src/main.c -o main.exe
     - name: Run
       run: .\main.exe
