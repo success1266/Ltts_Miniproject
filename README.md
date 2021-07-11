@@ -1,7 +1,6 @@
 # Ltts_Miniproject
 # Quiz Game
 ![quiz](https://user-images.githubusercontent.com/86407156/125194159-bfac8800-e26d-11eb-8306-78cab8f04a12.jpg)
-
 # SDLC Activity Based Learning
 Code Quality                |  Build                      |  Unity                      |  [Git Inspector](using github.io option)   |  Code Coverage  |
 
@@ -26,7 +25,7 @@ SF Id.            |  Name              |  Features             | Issuess Raised 
 : 292890        : | : Priya Raj      : | : All features      : | : No            : | : No              : | :              : | :                : |
 
 # Challenges Faced and How Was It Overcome
-No.        |  Challenge                                                   |  Solution                                                |
-:--------: | :----------------------------------------------------------: | :---------------------------------------------------- :  |
-: 1.     : | : Facing challenges in accessing the github workflow       : | : Taking help miniproject template and youtube videos :  | 
-: 2.     : | : Error while Building the makefile                        : | : Trial and Error and referred Mini Project Template  :  |
+No.        |  Challenge                                                   |  Solution                                               |
+:--------: | :----------------------------------------------------------: | :---------------------------------------------------- : |
+ 1.      |  Facing challenges in accessing the github workflow            | Taking help miniproject template and youtube videos     | 
+ 2.      |  Error while Building the makefile                             | Trial and Error and referred Mini Project Template      |
