@@ -15,14 +15,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Install MinGW
-      uses: egor-tensin/setup-mingw@v2
-
-    - name: build
-      run: gcc -Wall -c 3_Implementation/src/ResetScore.c
-           gcc -Wall -c 3_Implementation/src/HighestScore.c
-           gcc -Wall -c 3_Implementation/src/ShowLandingPage.c 
-           gcc -Wall -c 3_Implementation/src/main.c    
-           gcc -o main 3_Implementation/src/Help.o 3_Implementation/src/HighestScore.o 3_Implementation/src/ResetScore.o 3_Implementation/src/ShowLandingPage.o 3_Implementation/src/main.o
-    - name: Run
-      run: .\main.exe
+    - name: make
+      run: make -C 3_Implementation/all
