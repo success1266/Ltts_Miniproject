@@ -25,7 +25,7 @@ SF Id.            |  Name              |  Features             | Issuess Raised 
 : 292890        : | : Priya Raj      : | : All features      : | : No            : | : No              : | :              : | :                : |
 
 # Challenges Faced and How Was It Overcome
-No.        |  Challenge                                                   |  Solution                                               |
-:--------: | :----------------------------------------------------------: | :---------------------------------------------------- : |
- 1.      |  Facing challenges in accessing the github workflow            | Taking help miniproject template and youtube videos     | 
- 2.      |  Error while Building the makefile                             | Trial and Error and referred Mini Project Template      |
+No.        |  Challenge                                                    |  Solution                                               |
+:--------: | :---------------------------------------------------------- : | :---------------------------------------------------- : |
+ 1.      :|  Facing challenges in accessing the github workflow          : | Taking help miniproject template and youtube videos     | 
+ 2.      :|  Error while Building the makefile                           : | Trial and Error and referred Mini Project Template      |
