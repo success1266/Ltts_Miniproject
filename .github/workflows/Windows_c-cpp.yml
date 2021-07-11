@@ -16,4 +16,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: make
-      run: make -C 3_Implementation/src/all
+      run: make -f 3_Implementation/src/makefile all
