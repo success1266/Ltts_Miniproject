@@ -20,6 +20,6 @@ jobs:
            gcc -Wall -c 3_Implementation/src/HighestScore.c
            gcc -Wall -c 3_Implementation/src/ShowLandingPage.c 
            gcc -Wall -c 3_Implementation/src/main.c    
-           gcc -o main Help.o HighestScore.o ResetScore.o ShowLandingPage.o main.o
+           gcc -o main 3_Implementation/src/Help.o 3_Implementation/src/HighestScore.o 3_Implementation/src/ResetScore.o 3_Implementation/src/ShowLandingPage.o 3_Implementation/src/main.o
     - name: Run
       run: .\main.exe
