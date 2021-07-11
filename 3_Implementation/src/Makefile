@@ -1,12 +1,14 @@
-# #Name of the project
-# Project_Name = Quiz Game
+ Target name : Quiz Game
+#<TAB> command 
 
-# #Target command
-# Target: main.c
-# all: main.c -o all .exe
+src = main.c src/Help.c src/HighestScore.c src/ResetScore.c
+INC = inc
 
-# run: all
-#      ./all.exe
+target : $(src) $(inc)
+	gcc $(src) -I$(inc) -o new.out
 
-Final: main.c	
-	gcc -o Final main.c
+run : target
+	.\new.out
+
+clean :
+	rm new.out
