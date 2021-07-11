@@ -1,6 +1,2 @@
 # Ltts_Miniproject
-
-|Build | Code Quality | Unity | [Git Inspector](using github.io option) |
-|-----|-----|-----|
-|	 |     |  |
-|	 |  |  |
+https://www.code-inspector.com/project/24907/score/svg
