@@ -10,7 +10,7 @@ Code Quality | Build | Unity | [Git Inspector](using github.io option)
 # Introduction
 A quiz is a form of game or mind sport in which players attempt to answer questions correctly about a certain or variety of subjects. Quizzes can be used as a brief assessment in education and similar fields to measure growth in knowledge, abilities, or skills.The Quiz Game designed is very interactive,user friendly and easy to play.
  
-## Folder Structure
+# Folder Structure
 |Folder               | Description
 |---------------------|------------------------------------------
 |`1_Requirements`     | Documents detailing requirements and research
@@ -19,7 +19,7 @@ A quiz is a form of game or mind sport in which players attempt to answer questi
 |`4_TestPlanAndOutput`| Documents with test plans and procedures
 
 
-## Contributors List and Summary
+# Contributors List and Summary
 
 PS No. |  Name      |    Features    | Issues Raised  |Issues Resolved|No Test Cases|Test Case Pass
 -------|----------- |----------------|----------------|---------------|-------------|--------------
