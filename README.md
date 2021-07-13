@@ -8,10 +8,10 @@ Code Quality | [Git Inspector](using github.io option)| Build | Unity
 ![image](https://user-images.githubusercontent.com/86407156/125193624-fcc34b00-e26a-11eb-9d90-65e6ac3b2245.png)|[![Git Inspector](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml)| [![C/C++ CI](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml) |[![Unity - Unit Testing](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml)|
 
 
-# Introduction
+## Introduction
 A quiz is a form of game or mind sport in which players attempt to answer questions correctly about a certain or variety of subjects. Quizzes can be used as a brief assessment in education and similar fields to measure growth in knowledge, abilities, or skills.The Quiz Game designed is very interactive,user friendly and easy to play.
  
-# Folder Structure
+## Folder Structure
 |Folder               | Description
 |---------------------|------------------------------------------
 |`1_Requirements`     | Documents detailing requirements and research
@@ -20,16 +20,16 @@ A quiz is a form of game or mind sport in which players attempt to answer questi
 |`4_TestPlanAndOutput`| Documents with test plans and procedures
 
 
-# Contributors List and Summary
+## Contributors List and Summary
 
 PS No. |  Name      |    Features    | Issues Raised  |Issues Resolved|No Test Cases|Test Case Pass
 -------|----------- |----------------|----------------|---------------|-------------|--------------
-292890 | Priya Raj  | All features   | No             | No            |             |  
+292890 | Priya Raj  | All features   | 2             | 1           |         6     |       6
 
-# Challenges Faced and How Was It Overcome
+## Challenges Faced and How Was It Overcome
+| No. | Challenge | Solution
+|-----|-----------|--------
+|1. | Accessing the different files which was in different directory | Given full extension while opening the file
+|2. | Adding Badges in different Sdlc format | Refered Mini project template  |
+|3. | Error while Building the makefile | Trial and Error and referred Mini Project Template 
 
- 1.Facing challenges in accessing the github workflow         
- -> Taking help miniproject template and youtube videos   
- 
- 2.Error while Building the makefile 
- -> Trial and Error and referred Mini Project Template    
