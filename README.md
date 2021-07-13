@@ -2,10 +2,11 @@
 # Quiz Game
 ![quiz](https://user-images.githubusercontent.com/86407156/125194159-bfac8800-e26d-11eb-8306-78cab8f04a12.jpg)
 # SDLC Activity Based Learning
-Code Quality | Build | Unity | [Git Inspector](using github.io option)
+Code Quality | [Git Inspector](using github.io option)| Build | Unity
 ------|----------|-------|--------------
 ![image](https://user-images.githubusercontent.com/86407156/125193343-8ffb8100-e269-11eb-9dfb-0e96dd52b390.png) 
-![image](https://user-images.githubusercontent.com/86407156/125193624-fcc34b00-e26a-11eb-9d90-65e6ac3b2245.png) |
+![image](https://user-images.githubusercontent.com/86407156/125193624-fcc34b00-e26a-11eb-9d90-65e6ac3b2245.png)|[![Git Inspector](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml)| [![C/C++ CI](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml) |[![Unity - Unit Testing](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml)|
+
 
 # Introduction
 A quiz is a form of game or mind sport in which players attempt to answer questions correctly about a certain or variety of subjects. Quizzes can be used as a brief assessment in education and similar fields to measure growth in knowledge, abilities, or skills.The Quiz Game designed is very interactive,user friendly and easy to play.
