@@ -2,12 +2,10 @@
 # Quiz Game
 ![quiz](https://user-images.githubusercontent.com/86407156/125194159-bfac8800-e26d-11eb-8306-78cab8f04a12.jpg)
 # SDLC Activity Based Learning
-Code Quality | Build | Unity | [Git Inspector](using github.io option)
+Code Quality | [Git Inspector](using github.io option)| Build | Unity
 ------|----------|-------|--------------
 ![image](https://user-images.githubusercontent.com/86407156/125193343-8ffb8100-e269-11eb-9dfb-0e96dd52b390.png) 
-![image](https://user-images.githubusercontent.com/86407156/125193624-fcc34b00-e26a-11eb-9d90-65e6ac3b2245.png) |  
-|[![Code Quality Score](https://www.code-inspector.com/project/25048/score/svg)](<https://frontend.code-inspector.com/public/project/25048/LTTS_MINI_PROJECT/dashboard>)|
-[![Unity - Unit Testing](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml)|
+![image](https://user-images.githubusercontent.com/86407156/125193624-fcc34b00-e26a-11eb-9d90-65e6ac3b2245.png) |
 [![Git Inspector](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml)|
 
 
