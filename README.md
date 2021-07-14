@@ -6,7 +6,7 @@ Code Quality | [Git Inspector](using github.io option)| Build | Unity
 ------|----------|-------|--------------
 ![image](https://user-images.githubusercontent.com/86407156/125193343-8ffb8100-e269-11eb-9dfb-0e96dd52b390.png) 
 ![image](https://user-images.githubusercontent.com/86407156/125193624-fcc34b00-e26a-11eb-9d90-65e6ac3b2245.png)|![Contribution Check - Git Inspector](https://github.com/https://github.com/success1266/Ltts_Miniproject/actions/workflows/gitinspector.yml/badge.svg)|
-![C/C++CI](https://github.com/success1266/Ltts_Miniproject/actions/workflows/Windows_c-cpp.yml/badge.svg (https://github.com/success1266/Ltts_Miniproject/actions/workflows/Windows_c-cpp.yml)|
+![Windows C/C++ CI](https://github.com/success1266/Ltts_Miniproject/actions/workflows/Windows_c-cpp.yml/badge.svg)]
 [![Unity - Unit Testing](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml)|
 
 
