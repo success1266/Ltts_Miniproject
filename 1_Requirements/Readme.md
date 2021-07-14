@@ -1,5 +1,5 @@
 # SIMPLE QUIZ GAME
-The Quiz Game designed is very interactive,user friendly and easy to play.
+The Quiz Game designed is very interactive,user friendly and easy to play. A quiz is a game or competition in which someone tests your knowledge by asking you questions. ... If you are quizzed by someone about something, they ask you questions about it.
 
 # System Requirements
 -REQUIREMENTS FOR SOFTWARE To complete this project, you'll need the following hardware and software:
@@ -59,7 +59,7 @@ This project is run through a command prompt. So, in order to run this project a
 # Low-level Requirements
 |Requirements	|Description |Status |
 |-----|-----|-----|
-|UC01	 |  | Implemented |
-|Use case Name	 | help system		|  |
-|Summary | user access help	|  |
-|Description | on chossing help key user should access help module	|  |
+|UC01	 |  | Implemented | Implemented |
+|Use case Name	 | help system		|  Implemented |
+|Summary | user access help	| Implemented |
+|Description | on chossing help key user should access help module	| Implemented |
