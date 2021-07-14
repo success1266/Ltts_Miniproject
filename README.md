@@ -38,3 +38,11 @@ PS No. |  Name      |    Features    | Issues Raised  |Issues Resolved|No Test C
 |2. | Adding Badges in different Sdlc format | Refered Mini project template  |
 |3. | Error while Building the makefile | Trial and Error and referred Mini Project Template 
 
+## Learning Resources
+
+1. [geeksforgeeks](https://www.geeksforgeeks.org/c-programming-language/)
+2. [tutorialspoint](https://www.tutorialspoint.com/cprogramming/index.html)
+3. [git inspector](https://github.com/ejwa/gitinspector.git)
+4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
+
+
